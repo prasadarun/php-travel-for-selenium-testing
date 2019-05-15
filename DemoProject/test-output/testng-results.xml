@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43838" started-at="2019-05-15T06:07:02Z" finished-at="2019-05-15T06:07:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43838" started-at="2019-05-15T06:07:02Z" finished-at="2019-05-15T06:07:46Z">
+      <class name="com.projectname.qa.testcases.HomepageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="setUp" is-config="true" duration-ms="10101" started-at="2019-05-15T06:07:02Z" finished-at="2019-05-15T06:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateblogTest()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="validateblogTest" duration-ms="1400" started-at="2019-05-15T06:07:12Z" finished-at="2019-05-15T06:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateblogTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="tearDown" is-config="true" duration-ms="867" started-at="2019-05-15T06:07:13Z" finished-at="2019-05-15T06:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="setUp" is-config="true" duration-ms="9109" started-at="2019-05-15T06:07:14Z" finished-at="2019-05-15T06:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatehotelpageTest()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="validatehotelpageTest" duration-ms="170" started-at="2019-05-15T06:07:23Z" finished-at="2019-05-15T06:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatehotelpageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="tearDown" is-config="true" duration-ms="835" started-at="2019-05-15T06:07:24Z" finished-at="2019-05-15T06:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="setUp" is-config="true" duration-ms="9177" started-at="2019-05-15T06:07:24Z" finished-at="2019-05-15T06:07:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateofferTest()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="validateofferTest" duration-ms="1406" started-at="2019-05-15T06:07:34Z" finished-at="2019-05-15T06:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateofferTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="tearDown" is-config="true" duration-ms="843" started-at="2019-05-15T06:07:35Z" finished-at="2019-05-15T06:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="setUp" is-config="true" duration-ms="9017" started-at="2019-05-15T06:07:36Z" finished-at="2019-05-15T06:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatetitleofpageTest()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="validatetitleofpageTest" duration-ms="15" started-at="2019-05-15T06:07:45Z" finished-at="2019-05-15T06:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetitleofpageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.projectname.qa.testcases.HomepageTest@6093dd95]" name="tearDown" is-config="true" duration-ms="862" started-at="2019-05-15T06:07:45Z" finished-at="2019-05-15T06:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.projectname.qa.testcases.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
